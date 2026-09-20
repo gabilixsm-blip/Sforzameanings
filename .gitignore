@@ -1,0 +1,12 @@
+# Archivos temporales y de respaldo
+*-nuevo.js
+*-BACKUP.js
+*.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Configuración personal
+.env
+.vscode/
